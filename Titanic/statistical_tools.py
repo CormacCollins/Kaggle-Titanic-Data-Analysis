@@ -50,3 +50,17 @@ def draw_perm_reps(data_1, data_2, func, size=1):
         perm_replicates[i] = func(perm_sample_1, perm_sample_2)
 
     return perm_replicates
+
+def ecdf(data):
+    """Compute ECDF for a one-dimensional array of measurements."""
+    # Number of data points: n
+    n = len(data)
+
+    # x-data for the ECDF: x
+    x = np.sort(data)
+
+    # y-data for the ECDF: y
+    y = np.arange(1, n+1) / n
+
+    return x, y
+
