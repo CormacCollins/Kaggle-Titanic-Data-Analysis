@@ -18,5 +18,7 @@ https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/titanic_sur
 
 <ul>
         <li>1.) Basic logistical GLM with threshold optimization
-        https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/predictive_glm.html</li>      
+        https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/predictive_glm.html</li> 
+        <li>1.) More attempts at logistical GLM
+        https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/predictive_glm_2.html</li> 
 </ul>
