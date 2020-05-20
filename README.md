@@ -1,6 +1,6 @@
 # Kaggle-Titanic-Data-Analysis
 
-## DATA EXPLORATION & SIGNIFICANCE TESTING:
+## Data Exploration & Significance Testing:
 
 <ul>
         <li>1.) Proving statistical significance for <b>age</b> related survival difference (sampling permutation and binimial test) 
