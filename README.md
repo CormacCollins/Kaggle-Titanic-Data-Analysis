@@ -21,6 +21,6 @@ https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/titanic_sur
         https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/predictive_glm.html</li> 
         <li>1.) More attempts at logistical GLM
         https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/predictive_glm_2.html</li>
-        <li>1.) Basic Deep learning model
+        <li>1.) Basic Deep learning model (Writing still needs editing)
         https://cormaccollins.github.io/Kaggle-Titanic-Data-Analysis/Titanic/predictive_modelling_deep_learning.html</li> 
 </ul>
